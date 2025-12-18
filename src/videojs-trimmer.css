@@ -2,6 +2,7 @@
   position: absolute;
   height: 5px;
   bottom: 0;
+  z-index: 0;
   background: rgba(0, 255, 0, 0.5); /* Parte selezionata più visibile */
   z-index: 10;
 }
